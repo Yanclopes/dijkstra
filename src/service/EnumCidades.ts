@@ -1,0 +1,22 @@
+export enum EnumCidades {
+    'Rio do sul',
+    'Presidente Getulio',
+    'Ituporanga',
+    'Laurentino',
+    'Ibirama',
+    'Lontras',
+    'Pouso Redondo',
+    'Aurora',
+    'Chapadao do Lageado',
+    'Atalanta',
+    'Imbuia',
+    'Agronomica',
+    'Rio do Oeste',
+    'Salete',
+    'Santa Terezinha',
+    'Taio',
+    'Mirim Doce',
+    'Witmarsum',
+    'Vitor Meireles',
+    'Rio do Campo'
+}
